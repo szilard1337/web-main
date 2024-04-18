@@ -1,4 +1,4 @@
 # Webes portfólió
 ## Bogdán-Bordi Szilárd
 
-Az oldal ahol megtekinthető: [https://sszilard1337.github.io/web/](https://sszilard1337.github.io/web/)
+Az oldal ahol megtekinthető: [https://szilard1337.github.io/web-main/](https://szilard1337.github.io/web-main/)
