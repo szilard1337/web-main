@@ -1,4 +1,4 @@
 # Webes portfólió
 ## Bogdán-Bordi Szilárd
 
-Az oldal ahol megtekinthető: [https://szilard1337.github.io/web-main/](https://szilard1337.github.io/web-main/)
+Az oldal ahol megtekinthető: [https://fent.shop/](https://fent.shop/)
